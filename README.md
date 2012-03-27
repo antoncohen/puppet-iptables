@@ -4,7 +4,7 @@ A Puppet module that ensures the iptables packages are installed and the
 iptables services are running on Red Hat and Debian-based hosts.
 
 *Note: This is not an firewall module, use 
-(puppetlabs-firewall)[https://github.com/puppetlabs/puppetlabs-firewall]
+[puppetlabs-firewall](https://github.com/puppetlabs/puppetlabs-firewall)
 for actual firewalling. All this module does is ensure that the required
 packages and services are installed and running.*
 
